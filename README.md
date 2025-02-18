@@ -11,9 +11,6 @@ If you are using [Lazy.nvim](https://github.com/folke/lazy.nvim), add the follow
 ```lua
 require('lazy').setup({
   'DeciStudios/fnquote.nvim',
-  config = function()
-    require("fnquote").setup()
-  end,
 })
 ```
 
