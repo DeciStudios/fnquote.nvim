@@ -8,6 +8,7 @@ function M.quote_of_the_day()
     local seed = os.date("%Y%m%d")
     math.randomseed(tonumber(seed))
     local index = math.random(1, #M.quotes)
+    math.randomseed(os.time())
     return M.quotes[index]
 end
 
