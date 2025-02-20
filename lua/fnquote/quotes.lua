@@ -11,7 +11,7 @@ local M = {
     "Appreciate every season, you never know if it's the last chapter",
     "You can wrap yourself up with bandages, but you can never be fully healed",
     "People see you win the game, but they never see how many times you've lost",
-    "Don't treat her like a gold pump, if she doesn't treat you like a grey tac.",
+    "Don't treat her like a gold pump, if she treats you like a grey tac.",
     "She wanted my chug jug, but found out it was only a mini shield.",
     "You can keep changing skins, but at the end of the day, you're always the same player",
     "Always appear confident, never let them know you're on 1 hp.",
