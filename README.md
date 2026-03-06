@@ -19,7 +19,7 @@ require('lazy').setup({
 For [Packer.nvim](https://github.com/wbthomason/packer.nvim), add this to your `init.lua`:
 
 ```lua
-use 'your-username/fnquote.nvim'
+use 'DeciStudios/fnquote.nvim'
 ```
 
 Then run `:PackerSync` to install the plugin.
@@ -29,7 +29,7 @@ Then run `:PackerSync` to install the plugin.
 For [vim-plug](https://github.com/junegunn/vim-plug), add this to your `init.vim`:
 
 ```vim
-Plug 'your-username/fnquote.nvim'
+Plug 'DeciStudios/fnquote.nvim'
 ```
 
 Then run `:PlugInstall` to install the plugin.
